@@ -1,4 +1,10 @@
 # MagicBall
+git init
+git add .
+git commit -m "Перший коміт: Додано магічний шар предсказань"
+git remote add origin https://github.com/Hyakkimary/magic-8-ball.git
+git push -u origin master
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
